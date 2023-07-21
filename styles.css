@@ -40,7 +40,7 @@ nav-img{width: 70px;
         margin-right: 10px;}
 
 
-        /* banner */
+/* banner */
 
         .banner-container{
             margin-left: 20px;
@@ -62,8 +62,11 @@ nav-img{width: 70px;
             font-size: 30px;
         }
 
-        .ban-text p{font-size: 20px;}
-        #ftext{font-size: 25px;}
+        .ban-text p{font-size: 15px;
+        color: #534C64;}
+
+        #ftext{font-size: 25px;
+                color: black;}
 
          .btn1{color: #FFFFFF;
         background-color: #F948B2;
@@ -79,3 +82,31 @@ font-size: 15px;}
        
 .ban-text button{height: 45px;
 width: 100px;}
+
+
+/*  Online Games Funny Videos*/
+
+.funny{text-align: center;
+margin-top: 20px;}
+
+
+
+.funny-image{display: flex; justify-content:space-evenly;}
+
+/* .fnmg{width: 25px;
+    height: 180px;} */
+
+    .funny-image img{height: 150;
+    widows: 200px;}
+
+    .funny-all-images{display: flex;
+    justify-content:center;
+gap: 20px;
+margin-top: 20px;}
+
+    .funny-img{gap: 20px;}
+    
+    funny-text.{font-size: 15px;
+        color: #534C64;}
+
+
