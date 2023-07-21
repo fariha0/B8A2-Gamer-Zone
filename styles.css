@@ -1,0 +1,81 @@
+*{margin: 0;
+padding: 0;}
+
+/* nav */
+.gamer{
+    color: #F948B2;
+}
+
+.nav-text a {text-decoration: none;
+color: black;}
+
+
+
+.nav, .nav-left{display: flex;
+justify-content:space-around;
+align-items: center;}
+
+.nav{margin-top: 30px;}
+
+nav-img{width: 70px;
+    height: 25px;}
+
+    .nav-left{align-items: center
+     ;
+    gap: 3px;}
+    .nav-right{font-size: 1.25em;}
+    
+
+    .nav-button{
+        border-radius: 12px;
+    background: rgba(11, 2, 35, 0.10);
+    font-size: 18px;
+    margin-left: 10px;
+    }
+    .nav-right{font-size: 18px;
+        ;
+        font-weight: 500;}
+
+        .gap{margin-left:  10px;
+        margin-right: 10px;}
+
+
+        /* banner */
+
+        .banner-container{
+            margin-left: 20px;
+            margin-right: 5px;
+            display: flex;
+        justify-content: space-around;
+    margin-top: 70px;
+        align-items: center;
+    background-image: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);;}
+
+        .banner-images{
+            height: 90%;
+            width: 80%;
+            margin-left: 30px;
+        }
+
+        .ban-text{
+            margin-left: 20px;
+            font-size: 30px;
+        }
+
+        .ban-text p{font-size: 20px;}
+        #ftext{font-size: 25px;}
+
+         .btn1{color: #FFFFFF;
+        background-color: #F948B2;
+    border-radius: 20px ;
+    font-size: 15px;
+    border-color: #FFFFFF;}
+        
+.btn2{color: #FFFFFF;
+    background-color: hsl(209, 94%, 63%);
+border-color: #FFFFFF;
+border-radius: 100px;
+font-size: 15px;}
+       
+.ban-text button{height: 45px;
+width: 100px;}
