@@ -86,15 +86,14 @@ width: 100px;}
 
 /*  Online Games Funny Videos*/
 
+
+
 .funny{text-align: center;
 margin-top: 20px;}
 
-
-
 .funny-image{display: flex; justify-content:space-evenly;}
 
-/* .fnmg{width: 25px;
-    height: 180px;} */
+
 
     .funny-image img{height: 150;
     widows: 200px;}
@@ -106,7 +105,53 @@ margin-top: 20px;}
 
     .funny-img{gap: 20px;}
     
-    funny-text.{font-size: 15px;
+    .instant-text,funny-text.{font-size: 15px;
         color: #534C64;}
 
+
+
+/* play instantly */
+
+.Instant-head{color: #F948B2;}
+
+.instant{display: flex;
+justify-content: center;}
+
+ 
+
+ .instant{margin-top: 30px;
+align-items: center;
+}
+
+#left{padding-top: 300px;
+padding-right: 30px;}
+
+#twopics{ display: flex;
+flex-direction: column;
+padding-left: 80px;}
+
+.apic{position: absolute;}
+.bpic{position: relative;
+        bottom: -220px;
+        right: 50px;}
+
+
+        /*footer  */
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 130px;
+}        
+
+.footer .fot a{
+    text-decoration: none;
+color:white;
+}
+
+.footer .fot{
+    justify-content: space-evenly;
+    
+}
+    .fot-1{ align-items: center;}
 
